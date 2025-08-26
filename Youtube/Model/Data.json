@@ -1,0 +1,178 @@
+{
+  "videos": [
+    {
+      "title": "SwiftUI Tutorial: Building Modern iOS Apps from Scratch",
+      "views": "245K просмотров • 3 дня назад",
+      "previewImage": "https://picsum.photos/320/180?random=1",
+      "avatar": "https://picsum.photos/72/72?random=20",
+      "channelTitle": "Swift Mastery",
+      "likesCount": 12500,
+      "commentsCount": 1200,
+      "type": "video"
+    },
+    {
+      "title": "iOS 17: Complete Developer Guide - What's New and How to Use It",
+      "views": "892K просмотров • 1 неделю назад",
+      "previewImage": "https://picsum.photos/320/180?random=2",
+      "avatar": "https://picsum.photos/72/72?random=21",
+      "channelTitle": "iOS Dev Academy",
+      "likesCount": 45200,
+      "commentsCount": 3800,
+      "type": "video"
+    },
+    {
+      "title": "Mastering Auto Layout in UIKit - Advanced Techniques for Pros",
+      "views": "156K просмотров • 5 дней назад",
+      "previewImage": "https://picsum.photos/320/180?random=3",
+      "avatar": "https://picsum.photos/72/72?random=22",
+      "channelTitle": "UIKit Masters",
+      "likesCount": 8900,
+      "commentsCount": 764,
+      "type": "video"
+    },
+    {
+      "title": "Core Data vs SwiftData: Complete Migration Guide for iOS Developers",
+      "views": "73K просмотров • 2 дня назад",
+      "previewImage": "https://picsum.photos/320/180?random=4",
+      "avatar": "https://picsum.photos/72/72?random=23",
+      "channelTitle": "Data Persistence Pro",
+      "likesCount": 4100,
+      "commentsCount": 312,
+      "type": "video"
+    },
+    {
+      "title": "Building Custom UI Components with UIKit - Professional Approach",
+      "views": "289K просмотров • 1 день назад",
+      "previewImage": "https://picsum.photos/320/180?random=5",
+      "avatar": "https://picsum.photos/72/72?random=24",
+      "channelTitle": "Custom UI Lab",
+      "likesCount": 15600,
+      "commentsCount": 1400,
+      "type": "video"
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Swift Tip: Optional Binding in One Line 🔥",
+      "views": "127K просмотров • 6 часов назад",
+      "previewImage": "https://picsum.photos/200/355?random=10",
+      "avatar": "https://picsum.photos/72/72?random=30",
+      "channelTitle": "Swift Quick Tips",
+      "likesCount": 8500,
+      "commentsCount": 287,
+      "type": "shorts"
+    },
+    {
+      "title": "UIView Animation Magic ✨",
+      "views": "89K просмотров • 12 часов назад",
+      "previewImage": "https://picsum.photos/200/355?random=11",
+      "avatar": "https://picsum.photos/72/72?random=31",
+      "channelTitle": "Animation Expert",
+      "likesCount": 6200,
+      "commentsCount": 156,
+      "type": "shorts"
+    },
+    {
+      "title": "Xcode Debug Console Hack 🛠️",
+      "views": "234K просмотров • 1 день назад",
+      "previewImage": "https://picsum.photos/200/355?random=12",
+      "avatar": "https://picsum.photos/72/72?random=32",
+      "channelTitle": "Xcode Ninja",
+      "likesCount": 12100,
+      "commentsCount": 523,
+      "type": "shorts"
+    },
+    {
+      "title": "SwiftUI State Management Pro Tips 💡",
+      "views": "67K просмотров • 18 часов назад",
+      "previewImage": "https://picsum.photos/200/355?random=13",
+      "avatar": "https://picsum.photos/72/72?random=33",
+      "channelTitle": "SwiftUI Central",
+      "likesCount": 4800,
+      "commentsCount": 142,
+      "type": "shorts"
+    },
+    {
+      "title": "iOS Performance Optimization Secret ⚡",
+      "views": "145K просмотров • 3 часа назад",
+      "previewImage": "https://picsum.photos/200/355?random=14",
+      "avatar": "https://picsum.photos/72/72?random=34",
+      "channelTitle": "Performance Guru",
+      "likesCount": 9300,
+      "commentsCount": 394,
+      "type": "shorts"
+    },
+    {
+      "title": "Memory Leak Fix in 30 Seconds 🚀",
+      "views": "203K просмотров • 8 часов назад",
+      "previewImage": "https://picsum.photos/200/355?random=15",
+      "avatar": "https://picsum.photos/72/72?random=35",
+      "channelTitle": "Debug Doctor",
+      "likesCount": 11700,
+      "commentsCount": 467,
+      "type": "shorts"
+    }
+  ],
+  "mixed_content": [
+    {
+      "title": "Complete iOS Architecture Guide: MVC, MVP, MVVM, VIPER",
+      "views": "456K просмотров • 4 дня назад",
+      "previewImage": "https://picsum.photos/320/180?random=6",
+      "avatar": "https://picsum.photos/72/72?random=25",
+      "channelTitle": "Architecture Patterns",
+      "likesCount": 23400,
+      "commentsCount": 2100,
+      "type": "video"
+    },
+    {
+      "title": "Async/Await Best Practices 📚",
+      "views": "78K просмотров • 2 часа назад",
+      "previewImage": "https://picsum.photos/200/355?random=16",
+      "avatar": "https://picsum.photos/72/72?random=36",
+      "channelTitle": "Concurrent Swift",
+      "likesCount": 5900,
+      "commentsCount": 203,
+      "type": "shorts"
+    },
+    {
+      "title": "Unit Testing iOS Apps: Complete Guide with XCTest",
+      "views": "167K просмотров • 6 дней назад",
+      "previewImage": "https://picsum.photos/320/180?random=7",
+      "avatar": "https://picsum.photos/72/72?random=26",
+      "channelTitle": "Testing Excellence",
+      "likesCount": 9800,
+      "commentsCount": 845,
+      "type": "video"
+    },
+    {
+      "title": "SwiftUI Animation Trick ⚡",
+      "views": "312K просмотров • 5 часов назад",
+      "previewImage": "https://picsum.photos/200/355?random=17",
+      "avatar": "https://picsum.photos/72/72?random=37",
+      "channelTitle": "SwiftUI Animations",
+      "likesCount": 18500,
+      "commentsCount": 678,
+      "type": "shorts"
+    },
+    {
+      "title": "Networking with Combine Framework - Advanced Patterns",
+      "views": "98K просмотров • 3 дня назад",
+      "previewImage": "https://picsum.photos/320/180?random=8",
+      "avatar": "https://picsum.photos/72/72?random=27",
+      "channelTitle": "Combine & Networking",
+      "likesCount": 6700,
+      "commentsCount": 421,
+      "type": "video"
+    },
+    {
+      "title": "Core Data Query Optimization 🔥",
+      "views": "189K просмотров • 14 часов назад",
+      "previewImage": "https://picsum.photos/200/355?random=18",
+      "avatar": "https://picsum.photos/72/72?random=38",
+      "channelTitle": "Core Data Expert",
+      "likesCount": 12300,
+      "commentsCount": 356,
+      "type": "shorts"
+    }
+  ]
+}
